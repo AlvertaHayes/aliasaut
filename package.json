@@ -1,0 +1,27 @@
+{
+  "name": "aliasaut",
+  "version": "1.0.0",
+  "description": "vue 2 google map custom marker component allowing display custom html content on google map using vue2-google-maps",
+  "main": "gmap-custom-marker.vue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlvertaHayes/aliasaut.git"
+  },
+  "keywords": [
+    "vue",
+    "iusto",
+    "google",
+    "et",
+    "marker",
+    "custom"
+  ],
+  "author": "BoydBahringer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlvertaHayes/aliasaut.git/issues"
+  },
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue2-google-maps": "^0.10.2"
+  }
+}
